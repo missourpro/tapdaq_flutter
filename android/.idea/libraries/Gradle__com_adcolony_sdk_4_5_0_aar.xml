@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.adcolony:sdk:4.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/72436347d5ca357cf30f8ebb623fddf2/transformed/sdk-4.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72436347d5ca357cf30f8ebb623fddf2/transformed/sdk-4.5.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72436347d5ca357cf30f8ebb623fddf2/transformed/sdk-4.5.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/92fd8b6c5a05de6dac1ad4a6c0165b8c6e8275aa/sdk-4.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adcolony/sdk/4.5.0/ddc09940c31b285b2cb64050f42be86e97b33acf/sdk-4.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

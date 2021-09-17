@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tapdaq.sdk:TapdaqTapjoyAdapter:7.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f8324c7e863a27e9369e0741b88a1033/transformed/TapdaqTapjoyAdapter-7.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8324c7e863a27e9369e0741b88a1033/transformed/TapdaqTapjoyAdapter-7.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f8324c7e863a27e9369e0741b88a1033/transformed/TapdaqTapjoyAdapter-7.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tapdaq.sdk:TapdaqAdMobAdapter:7.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3b726a01717f84f0e5586a62d34fa6f4/transformed/TapdaqAdMobAdapter-7.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3b726a01717f84f0e5586a62d34fa6f4/transformed/TapdaqAdMobAdapter-7.9.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3b726a01717f84f0e5586a62d34fa6f4/transformed/TapdaqAdMobAdapter-7.9.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
